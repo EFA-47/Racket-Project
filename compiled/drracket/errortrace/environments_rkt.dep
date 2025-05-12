@@ -1,0 +1,1 @@
+("8.6" ta6osx ("c0b6880235caa48b0e45c4bd1ed0532b1889cbda" . "7feac4906a916843d0f0214c124535bafd0e704b") #"/Users/emirfatihayyildiz/Downloads/Ps10_code/data-structures.rkt" #"/Users/emirfatihayyildiz/Downloads/Ps10_code/store.rkt" (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt") (collects #"errortrace" #"errortrace-key.rkt"))
